@@ -1,0 +1,1 @@
+import{O as e,b as t,i as n,v as r}from"./D9RKIQqt.js";var i=t(`<div class="illustration svelte-aeorqj" role="img"></div>`);function a(t,a){var o=i();e(()=>n(o,`aria-label`,a.label)),r(t,o)}export{a as t};
